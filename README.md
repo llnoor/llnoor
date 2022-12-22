@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-#### I'm a Back-end developer working in Turkey.
+#### I'm a Back-end developer.
 
 ##### BIO
 
