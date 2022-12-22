@@ -5,8 +5,8 @@
 ##### BIO
 
 - 🔭 I'm currently working at Physical-Technical Institute, FRC Kazan Scientific Center
-- ⚙️ I use: `C`, `C++`, `Qt`, `MATLAB`
-- 💬 I also know: `PHP`, `HTML`, `CSS`
+- ⚙️ I use: `C`, `C++`, `Qt`, `SQL`, `MATLAB`
+- 💬 I also know: `Python`, `PHP`, `HTML`, `CSS`
 - 🌍 I'm mostly active within the **21 School**
 - 🌱 Learning all about **Open Source**
 - 💬 Ping me about **Automation of everything**, **Research Software development**, **Design of technical equipment**
